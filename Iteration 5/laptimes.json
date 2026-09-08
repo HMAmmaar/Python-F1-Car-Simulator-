@@ -1,0 +1,165 @@
+{
+  "tracks": {
+    "Track 1": {
+      "name": "Track 1",
+      "entries": [
+        {
+          "user": "Computer",
+          "best_lap": 20.482
+        },
+        {
+          "user": "HMAmmaar",
+          "best_lap": 22.565
+        },
+        {
+          "user": "max",
+          "best_lap": 63.049
+        },
+        {
+          "user": "Aahaan",
+          "best_lap": 88.26
+        }
+      ]
+    },
+    "Track 9": {
+      "name": "Track 9",
+      "entries": [
+        {
+          "user": "max",
+          "best_lap": 41.573
+        },
+        {
+          "user": "Computer",
+          "best_lap": 42.239
+        },
+        {
+          "user": "HMAmmaar",
+          "best_lap": 52.288
+        }
+      ]
+    },
+    "Track 6": {
+      "name": "Track 6",
+      "entries": [
+        {
+          "user": "sigma",
+          "best_lap": 55.331
+        },
+        {
+          "user": "Ulti",
+          "best_lap": 55.928
+        },
+        {
+          "user": "max",
+          "best_lap": 56.387
+        },
+        {
+          "user": "Computer",
+          "best_lap": 56.45
+        },
+        {
+          "user": "HMAmmaar",
+          "best_lap": 56.58
+        }
+      ]
+    },
+    "Track 3": {
+      "name": "Track 3",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 48.408
+        },
+        {
+          "user": "Computer",
+          "best_lap": 50.111
+        },
+        {
+          "user": "max",
+          "best_lap": 51.489
+        },
+        {
+          "user": "jess",
+          "best_lap": 61.766
+        }
+      ]
+    },
+    "Track 2": {
+      "name": "Track 2",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 52.154
+        },
+        {
+          "user": "Computer",
+          "best_lap": 52.835
+        },
+        {
+          "user": "jess",
+          "best_lap": 85.22
+        }
+      ]
+    },
+    "Track 4": {
+      "name": "Track 4",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 48.062
+        },
+        {
+          "user": "Computer",
+          "best_lap": 49.467
+        }
+      ]
+    },
+    "Track 5": {
+      "name": "Track 5",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 44.056
+        },
+        {
+          "user": "Computer",
+          "best_lap": 45.693
+        },
+        {
+          "user": "jess",
+          "best_lap": 50.909
+        }
+      ]
+    },
+    "Track 7": {
+      "name": "Track 7",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 37.381
+        },
+        {
+          "user": "Computer",
+          "best_lap": 38.521
+        },
+        {
+          "user": "sigma",
+          "best_lap": 49.78
+        }
+      ]
+    },
+    "Track 8": {
+      "name": "Track 8",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 46.411
+        },
+        {
+          "user": "Computer",
+          "best_lap": 46.908
+        }
+      ]
+    }
+  }
+}

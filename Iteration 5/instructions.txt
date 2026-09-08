@@ -1,0 +1,1 @@
+1. Go into "game_states_handler.py" and click run.

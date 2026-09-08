@@ -1,0 +1,37 @@
+{
+    "john": {
+        "password_hash": "8bf729f5f3e2ba07cb421f6046e008ef4958665133b14fded2c7271c4664525f",
+        "player_car": "DARK_BLUE_F1_CAR",
+        "computer_car": "DARK_RED_F1_CAR"
+    },
+    "HMAmmaar": {
+        "password_hash": "4cab014a0240512e5d9c9900c1cad9d39fcc973240f748eff649aab67e5a3722",
+        "player_car": "RED_CAR",
+        "computer_car": "GREY_F1_CAR"
+    },
+    "max": {
+        "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "player_car": "DARK_BLUE_F1_CAR",
+        "computer_car": "DARK_RED_F1_CAR"
+    },
+    "sigma": {
+        "password_hash": "348d77e943a990e64b08bd3bafc7c1b3fde497e92670f78cd8e9eb27529706f2",
+        "player_car": "RED_CAR",
+        "computer_car": "GREY_CAR"
+    },
+    "Ulti": {
+        "password_hash": "58c69dba71913ffba993dc47edef2e84c90cda90eaec19524a2be612bd728bf7",
+        "player_car": "DARK_BLUE_F1_CAR",
+        "computer_car": "DARK_RED_F1_CAR"
+    },
+    "Aahaan": {
+        "password_hash": "6027a942ecac415a96cf459acf036dcc21e291e4649dc77865e085a2f744bea4",
+        "player_car": "YELLOW_F1_CAR",
+        "computer_car": "DARK_BLUE_F1_CAR"
+    },
+    "jess": {
+        "password_hash": "615e3816928c563069c98ce6af08da5d13a5b74905278294b8e2380fd2e784f6",
+        "player_car": "RED_CAR",
+        "computer_car": "ORANGE_F1_CAR"
+    }
+}

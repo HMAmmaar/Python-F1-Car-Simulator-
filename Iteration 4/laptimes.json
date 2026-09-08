@@ -1,0 +1,53 @@
+{
+  "tracks": {
+    "Classic 1": {
+      "name": "Classic 1",
+      "entries": [
+        {
+          "user": "HMAmmaar",
+          "best_lap": 23.478
+        },
+        {
+          "user": "Max Verstappen",
+          "best_lap": 23.88
+        },
+        {
+          "user": "Author",
+          "best_lap": 24.02
+        },
+        {
+          "user": "George Russell",
+          "best_lap": 24.02
+        },
+        {
+          "user": "Lando Norris",
+          "best_lap": 24.14
+        },
+        {
+          "user": "Oscar Piastri",
+          "best_lap": 24.18
+        },
+        {
+          "user": "Carlos Sainz Jr.",
+          "best_lap": 24.25
+        },
+        {
+          "user": "Charles Leclerc",
+          "best_lap": 24.32
+        },
+        {
+          "user": "Fernando Alonso",
+          "best_lap": 24.55
+        },
+        {
+          "user": "Sebastian Vettel",
+          "best_lap": 24.79
+        },
+        {
+          "user": "Lewis Hamilton",
+          "best_lap": 24.9
+        }
+      ]
+    }
+  }
+}
